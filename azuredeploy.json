@@ -61,7 +61,7 @@
             { "name": "WEBSITE_MYSQL_GENERAL_LOG", "value": "0" },
             { "name": "WEBSITE_MYSQL_SLOW_QUERY_LOG", "value": "0" },
             { "name": "WEBSITE_MYSQL_ARGUMENTS", "value": "--max_allowed_packet=16M" },
-            { "name": "IN_PLACE_DEPLOYMENT", "value": "1" }
+            { "name": "SCM_REPOSITORY_PATH", "value": "wwwroot" }
           ]
         }
       },
